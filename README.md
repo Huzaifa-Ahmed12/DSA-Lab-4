@@ -1,1 +1,2 @@
 # DSA-Lab-4
+A Queue is a linear data structure that follows the FIFO (First In, First Out) principle, where elements are inserted at the rear and removed from the front, commonly used in scheduling and buffering. A Dequeue (Double-Ended Queue) is a more flexible version of a queue that allows insertion and deletion from both ends, making it useful for applications like undo/redo operations and sliding window problems. While a queue maintains a strict order of processing, a dequeue provides greater versatility in data manipulation.
